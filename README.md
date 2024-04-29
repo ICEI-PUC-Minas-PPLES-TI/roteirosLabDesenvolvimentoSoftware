@@ -1,18 +1,16 @@
-# [Nome do projeto]
+# [Roteiro 2 Laboratório]
 
-[Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
+[Projeto de crud utilizando SpringBoot e JPA]
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* [Douglas Viana Fernandes]
+
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* [Cristiano de Macedo Neto]
+
 
 ## Instruções de utilização
 
